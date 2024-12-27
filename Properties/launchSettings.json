@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DSCGImport": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Data Source=78.41.95.103;Initial Catalog=GDB520018;User ID=DSCG;Password=DSCG;TrustServerCertificate=True\" 3 \"G:\\Geoprojects\\СГП\\Трошковский\\Lithology.xlsx\""
+    }
+  }
+}
